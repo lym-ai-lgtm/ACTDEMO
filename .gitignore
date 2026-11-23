@@ -1,16 +1,12 @@
 Binaries/
-Intermediate/
 DerivedDataCache/
+Intermediate/
 Saved/
 .vs/
 .codex/
-Content/
-Build/
 *.sln
 *.slnx
 *.mp4
 *.mov
-*.uasset
-*.umap
-*.wav
-*.fbx
+# 自动化校准辅助资产只供原开发环境使用，不参与运行
+Content/Demo/GAS/Katana/Editor/
