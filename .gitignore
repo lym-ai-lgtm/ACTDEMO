@@ -1,0 +1,16 @@
+Binaries/
+Intermediate/
+DerivedDataCache/
+Saved/
+.vs/
+.codex/
+Content/
+Build/
+*.sln
+*.slnx
+*.mp4
+*.mov
+*.uasset
+*.umap
+*.wav
+*.fbx
